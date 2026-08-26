@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vikaspal10380/DSA-practice/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vikaspal10380/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vikaspal10380/DSA-practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
