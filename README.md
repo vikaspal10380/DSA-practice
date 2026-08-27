@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/vikaspal10380/DSA-practice/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/vikaspal10380/DSA-practice/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -28,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vikaspal10380/DSA-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/vikaspal10380/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vikaspal10380/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vikaspal10380/DSA-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/vikaspal10380/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vikaspal10380/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -42,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vikaspal10380/DSA-practice/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vikaspal10380/DSA-practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
