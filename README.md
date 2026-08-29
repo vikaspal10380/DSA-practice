@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vikaspal10380/DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0445-add-two-numbers-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/vikaspal10380/DSA-practice/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/vikaspal10380/DSA-practice/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vikaspal10380/DSA-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vikaspal10380/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vikaspal10380/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/vikaspal10380/DSA-practice/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vikaspal10380/DSA-practice/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/vikaspal10380/DSA-practice/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
