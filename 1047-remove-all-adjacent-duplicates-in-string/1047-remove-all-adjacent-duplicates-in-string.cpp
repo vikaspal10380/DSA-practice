@@ -3,10 +3,7 @@ public:
     string removeDuplicates(string s) {
         stack<char> s1;
         for(char x : s){
-            if(s1.empty()){
-                s1.push(x);
-            }
-            else if(s1.top() == x){
+            if(!s1.empty() && s1.top() == x){
                 s1.pop();
             }
             else{
