@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vikaspal10380/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0009-palindrome-number) |
 | [0445-add-two-numbers-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0509-fibonacci-number) |
 | [3871-count-commas-in-range-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/3871-count-commas-in-range-ii) |
 ## Stack
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vikaspal10380/DSA-practice/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vikaspal10380/DSA-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
@@ -206,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vikaspal10380/DSA-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vikaspal10380/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
