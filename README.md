@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/vikaspal10380/DSA-practice/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vikaspal10380/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vikaspal10380/DSA-practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vikaspal10380/DSA-practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vikaspal10380/DSA-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/vikaspal10380/DSA-practice/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vikaspal10380/DSA-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vikaspal10380/DSA-practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vikaspal10380/DSA-practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vikaspal10380/DSA-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/vikaspal10380/DSA-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vikaspal10380/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vikaspal10380/DSA-practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vikaspal10380/DSA-practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vikaspal10380/DSA-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
