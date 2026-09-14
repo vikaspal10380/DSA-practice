@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0009-palindrome-number) |
 | [0445-add-two-numbers-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/vikaspal10380/DSA-practice/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/3871-count-commas-in-range-ii) |
 ## Stack
 |  |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/vikaspal10380/DSA-practice/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vikaspal10380/DSA-practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
