@@ -83,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/vikaspal10380/DSA-practice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/vikaspal10380/DSA-practice/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/vikaspal10380/DSA-practice/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/vikaspal10380/DSA-practice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/vikaspal10380/DSA-practice/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikaspal10380/DSA-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/vikaspal10380/DSA-practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0509-fibonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vikaspal10380/DSA-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vikaspal10380/DSA-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
