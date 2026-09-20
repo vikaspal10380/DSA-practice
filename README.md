@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vikaspal10380/DSA-practice/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/vikaspal10380/DSA-practice/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vikaspal10380/DSA-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/vikaspal10380/DSA-practice/tree/master/1480-running-sum-of-1d-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vikaspal10380/DSA-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vikaspal10380/DSA-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vikaspal10380/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vikaspal10380/DSA-practice/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/vikaspal10380/DSA-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
 | ------- |
