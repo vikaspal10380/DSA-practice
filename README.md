@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/vikaspal10380/DSA-practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vikaspal10380/DSA-practice/tree/master/0844-backspace-string-compare) |
+| [3498-reverse-degree-of-a-string](https://github.com/vikaspal10380/DSA-practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/vikaspal10380/DSA-practice/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikaspal10380/DSA-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/vikaspal10380/DSA-practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
