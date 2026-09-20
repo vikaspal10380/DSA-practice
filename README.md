@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vikaspal10380/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vikaspal10380/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/vikaspal10380/DSA-practice/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/vikaspal10380/DSA-practice/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/vikaspal10380/DSA-practice/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vikaspal10380/DSA-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vikaspal10380/DSA-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vikaspal10380/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/vikaspal10380/DSA-practice/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
 | ------- |
