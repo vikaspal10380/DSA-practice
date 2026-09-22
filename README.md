@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vikaspal10380/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/vikaspal10380/DSA-practice/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/vikaspal10380/DSA-practice/tree/master/0836-rectangle-overlap) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vikaspal10380/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/vikaspal10380/DSA-practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/vikaspal10380/DSA-practice/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vikaspal10380/DSA-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vikaspal10380/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vikaspal10380/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vikaspal10380/DSA-practice/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/vikaspal10380/DSA-practice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/vikaspal10380/DSA-practice/tree/master/0844-backspace-string-compare) |
