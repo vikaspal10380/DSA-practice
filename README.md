@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vikaspal10380/DSA-practice/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vikaspal10380/DSA-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/vikaspal10380/DSA-practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0179-largest-number) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vikaspal10380/DSA-practice/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vikaspal10380/DSA-practice/tree/master/0257-binary-tree-paths) |
 ## String Matching
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vikaspal10380/DSA-practice/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vikaspal10380/DSA-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
