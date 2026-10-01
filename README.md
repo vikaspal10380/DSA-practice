@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vikaspal10380/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/vikaspal10380/DSA-practice/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vikaspal10380/DSA-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vikaspal10380/DSA-practice/tree/master/0496-next-greater-element-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vikaspal10380/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/vikaspal10380/DSA-practice/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/vikaspal10380/DSA-practice/tree/master/0392-is-subsequence) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vikaspal10380/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vikaspal10380/DSA-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Divide and Conquer
 |  |
