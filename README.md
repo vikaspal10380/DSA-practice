@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikaspal10380/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/vikaspal10380/DSA-practice/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/vikaspal10380/DSA-practice/tree/master/0392-is-subsequence) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/vikaspal10380/DSA-practice/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vikaspal10380/DSA-practice/tree/master/0257-binary-tree-paths) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/vikaspal10380/DSA-practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0509-fibonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vikaspal10380/DSA-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
