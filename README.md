@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vikaspal10380/DSA-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vikaspal10380/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vikaspal10380/DSA-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vikaspal10380/DSA-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vikaspal10380/DSA-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vikaspal10380/DSA-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikaspal10380/DSA-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vikaspal10380/DSA-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vikaspal10380/DSA-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3340-check-balanced-string](https://github.com/vikaspal10380/DSA-practice/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/vikaspal10380/DSA-practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vikaspal10380/DSA-practice/tree/master/0169-majority-element) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vikaspal10380/DSA-practice/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
