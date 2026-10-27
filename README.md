@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vikaspal10380/DSA-practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/vikaspal10380/DSA-practice/tree/master/0844-backspace-string-compare) |
+| [0925-long-pressed-name](https://github.com/vikaspal10380/DSA-practice/tree/master/0925-long-pressed-name) |
 ## String
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/vikaspal10380/DSA-practice/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/0856-score-of-parentheses) |
+| [0925-long-pressed-name](https://github.com/vikaspal10380/DSA-practice/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikaspal10380/DSA-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
