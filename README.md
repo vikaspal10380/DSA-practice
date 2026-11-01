@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/vikaspal10380/DSA-practice/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vikaspal10380/DSA-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/vikaspal10380/DSA-practice/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/vikaspal10380/DSA-practice/tree/master/3871-count-commas-in-range-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/vikaspal10380/DSA-practice/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vikaspal10380/DSA-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vikaspal10380/DSA-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/vikaspal10380/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/vikaspal10380/DSA-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vikaspal10380/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
