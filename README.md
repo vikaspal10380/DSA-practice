@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vikaspal10380/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/vikaspal10380/DSA-practice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/vikaspal10380/DSA-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vikaspal10380/DSA-practice/tree/master/0392-is-subsequence) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikaspal10380/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/vikaspal10380/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/vikaspal10380/DSA-practice/tree/master/0257-binary-tree-paths) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vikaspal10380/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/vikaspal10380/DSA-practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/vikaspal10380/DSA-practice/tree/master/0509-fibonacci-number) |
@@ -376,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikaspal10380/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vikaspal10380/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
